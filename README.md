@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Fatime's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatse&show_icons=true&theme=dark)
+![Fatime's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatse&show_icons=true&theme=vue)
